@@ -1,10 +1,5 @@
 # Market Basket Analysis with Apriori Algorithm
 
-Thank you for providing the link to the repository. Based on the provided repository, here's an updated README file for the Market Basket Analysis project using the Apriori Algorithm:
-
-Market Basket Analysis with Apriori Algorithm
-Python
-PyQt6
 
 This project implements association rule mining on a market basket dataset using the Apriori algorithm. The application is developed in Python, and it includes a user interface built with PyQt6.
 
@@ -20,13 +15,16 @@ Features
 
 4-User Interface: A user-friendly interface built with PyQt6 allows users to interact with the algorithm and visualize the results.
 
-How to Run
+How to Run :
+
+
 1-Clone the repository: git clone https://github.com/Shalaby1022/Association-Rule.git
 2-Install the required dependencies: pip install PyQt6 pandas
 3-Run the application: python main.py
 4-Load your market basket dataset, set the parameters, and initiate the analysis.
 
-Usage
+Usage:
+
 1-Import Dataset: Import your market basket data in CSV format or any other compatible format.
 
 -Set Parameters: Set the minimum support and confidence values for the association rule mining.
@@ -35,7 +33,8 @@ Usage
 
 View Results: The application displays the discovered rules and their associated metrics for further analysis.
 
-Dependencies
+Dependencies:
+
 Python 3.9.6
 PyQt6 6.1.0
 pandas
